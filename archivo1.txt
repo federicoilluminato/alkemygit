@@ -2,3 +2,6 @@ contenido1
 
 
 contenido del punto 6
+
+
+punto 7 probando
